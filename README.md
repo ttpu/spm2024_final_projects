@@ -9,12 +9,14 @@
    - Ilhomov Abduaziz (se14204) - @AbduazizProger (front-end dev)
    - Khikmatov Nurilla (se13091) - @khikmatov0110 (UI/UX design)
 
+---------------
 2) ToDo List: [Link](https://github.com/ttpu/spm2024_finalproject_ToDoList)
 
    members:
    - Madina Tursunova (se13448) - @Madina-webdeveloper  (single member)
 
 
+---------------
 3) News Website: [Link](https://github.com/ttpu/SPM24_Final_Project_CosmicBoys)
 
    members:
