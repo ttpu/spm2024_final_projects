@@ -13,3 +13,11 @@
 
    members:
    - Madina Tursunova (se13448) - @Madina-webdeveloper  (single member)
+
+
+3) News Website: [Link](https://github.com/ttpu/SPM24_Final_Project_CosmicBoys)
+
+   members:
+   - Islombek Ostonbekov (se13373) - @Islomshek (project manager, front-end)
+   - Khojiakbar Mansurxo'jaev (se13114) - @mansuroff123 (back-end)
+   - Abdulbosit Sunnatov (se14206) - @positiveprogrammerr (design)
